@@ -7,3 +7,5 @@ const add = addition(1 - 2); //be consious about paramiter value
 const add2 = addition(1, 2);
 console.log(add);
 console.log(add2);
+
+// 22-4 done
